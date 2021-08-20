@@ -6,3 +6,4 @@ setup(name='csgospam',
       version='0.0.1',
       description='spam in lobbys',
       executables=executables)
+# python build.py build
