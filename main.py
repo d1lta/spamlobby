@@ -3,7 +3,7 @@ import keyboard
 import time
 from random import randint
 from threading import Thread
-version = "0.0.2"
+version = "0.0.3"
 status = False
 settingsmenu = False
 times = 0
